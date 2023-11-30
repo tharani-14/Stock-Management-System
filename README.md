@@ -5,6 +5,12 @@
 
 <h3>Requirements</h3>
 <ul>
+	<li>XAMPP</li>
+	<li>MySql</li>
+	<li>Apache</li>
+</ul>
+<h3>Languages</h3>
+<ul>
 	<li>PHP</li>
 	<li>MySql</li>
 	<li>Java Script</li>
